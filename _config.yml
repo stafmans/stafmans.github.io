@@ -1,0 +1,8 @@
+title: stafmans.github.io
+description: Github user pages repo
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
